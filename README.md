@@ -22,3 +22,11 @@ Here are some ideas to get you started:
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+### 📊 My Focus
+
+- 🔍 **Data Exploration & Cleaning**
+- 📐 **Data Modeling** (Star/Snowflake schema)
+- 📉 **Power BI Reports** and **Interactive Dashboards**
+- 📊 **EDA**, **Visualization**, and **Statistical Analysis** in R and Python
+- 🛠 **Automation** & **Scripted Analysis** with SQL and Python
