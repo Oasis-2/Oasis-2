@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06161D&width=435&lines=Hi+I+am+Hyeonhak)](https://git.io/typing-svg)
 
 <!--
 **Oasis-2/Oasis-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
