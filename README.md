@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06161D&width=435&lines=Hi+I+am+Hyeonhak)](https://git.io/typing-svg)
 
@@ -20,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ###
 
-<h2 align="center">Techs I Use</h2>
+<h1 align="center"><span style="font-size:12px">Techs I Use</span></h1>
 
 ###
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
